@@ -4,7 +4,7 @@ set -e
 
 npm run docs:build
 
-cd .vitepress/dist
+cd docs/.vitepress/dist
 
 # if you are deploying to a custom domain
 #echo 'www.lorenzokimarthur.com' > CNAME
