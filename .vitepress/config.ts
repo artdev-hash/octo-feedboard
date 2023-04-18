@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/octo-feedboard/',
-  title: "octo-feedboard",
+  title: "🚀 octo-feedboard",
   description: "A Vite Project Board",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
