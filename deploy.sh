@@ -13,7 +13,7 @@ git init
 git add -A 
 git commit -m 'deploy'
 
-git push -f git@github.com:artdev-hash/octo-feedboard.git master:gh-pages
+git push -f git@github.com:artdev-hash/octo-feedboard.git master:gh-pages-deoloy
 
 cd -
 
