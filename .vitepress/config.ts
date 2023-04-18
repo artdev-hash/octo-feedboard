@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "octo-feedboard",
   description: "A Vite Project Board",
+  base:'/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
