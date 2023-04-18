@@ -4,15 +4,10 @@ layout: home
 
 hero:
   name: "octo-feedboard"
-  text: "A Vite Project Board"
-  tagline: My great project tagline
+  text: 
+  tagline: 
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+
 
 features:
   - title: Feature A
