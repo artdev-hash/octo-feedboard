@@ -10,11 +10,11 @@ hero:
 
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 👨‍💻 Dev Docs
+    details: Javascript, Code-Oss, Vs-code, Programming
+  - title: 🛰️ Tech Docs
+    details: Current Trend in Programming
+  - title: 💡 Misc Docs
+    details: Misc etc.. others stuff..
 ---
 
