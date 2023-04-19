@@ -1,4 +1,6 @@
-{
+{  
+  "name": "octo-feedboard",
+  "author": "artdev-hash <dev@lorenzokimarthur.com>",
   "scripts": {
     "homepage": "https://artdev-hash.github.io/octo-feedboard/",
     "docs:dev": "vitepress dev",
