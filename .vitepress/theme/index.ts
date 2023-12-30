@@ -1,16 +1,19 @@
-// https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
-import Theme from 'vitepress/theme'
-import './style.css'
+import DefaultTheme from "vitepress/theme";
+import Tags from "./components/Tags.vue";
+import MyLayout from "./components/MyLayout.vue";
+import Dev from "./components/Dev.vue";
+import Work from "./components/Projie.vue";
+import "./custom.css";
 
 export default {
-  ...Theme,
-  Layout: () => {
-    return h(Theme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    })
+  ...DefaultTheme,
+  Layout: MyLayout,
+  enhanceApp(ctx) {
+    DefaultTheme.enhanceApp(ctx);
+    const { app } = ctx;
+    // register global components
+    app.component("Tags", Tags);
+    app.component("Dev", Dev);
+    app.component("Work", Work);
   },
-  enhanceApp({ app, router, siteData }) {
-    // ...
-  }
-}
+};

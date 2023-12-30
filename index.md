@@ -1,20 +1,13 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
-hero:
-  name: "octo-feedboard"
-  text: 
-  tagline: 
-  actions:
-
+date: 2023-05-01
+title: home
+sidebar: false
 
 features:
-  - title: 👨‍💻 Dev Docs
-    details: Javascript, Code-Oss, Vs-code, Programming
-  - title: 🛰️ Tech Docs
-    details: Current Trend, Modern, Technologies...
-  - title: 💡 Misc Docs
-    details: Misc etc.. others stuff..
+  - title: 🚀 dev@app v 0.1
+    details: Useful Data Gathered
+  - title: 🛰️ 🏬 Information 💡 
+    details: Others
 ---
 

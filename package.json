@@ -1,1 +1,24 @@
-{"name":"octo-feedboard","author":"artdev-hash <dev@lorenzokimarthur.com>","scripts":{"homepage":"https://artdev-hash.github.io/octo-feedboard/","docs:dev":"vitepress dev","docs:build":"vitepress build","docs:preview":"vitepress preview","deploy":"sh deploy.sh"},"devDependencies":{"vitepress":"^1.0.0-alpha.63"},"dependencies":{"fast-glob":"^3.2.12","feed":"^4.2.2","globby":"^13.1.4","gray-matter":"^4.0.3","markdown-it":"^13.0.1"}}
+{
+    "name": "octo-feedboard",
+    "author": "artdev-hash <dev@lorenzokimarthur.com>",
+  
+    "devDependencies": {
+      "fast-glob": "^3.2.12",
+      "feed": "^4.2.2",
+      "fs-extra": "^11.1.0",
+      "globby": "11.0.4",
+      "gray-matter": "^4.0.3",
+      "markdown-it": "^13.0.1"    
+    },
+    "scripts": {
+      "deploy": "sh deploy.sh",
+      "dev": "vitepress dev ",
+      "build": "vitepress build ",
+      "serve": "vitepress serve "
+    },
+    "dependencies": {
+      "dayjs": "^1.11.7",
+      "vitepress": "1.0.0-rc.33"
+    }
+  }
+  
