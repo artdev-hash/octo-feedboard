@@ -6,7 +6,7 @@
     <code>- hacktoberfest 23</code><br>
     <code>- bicoltranslate</code><br>
     <code>- feedboard</code><br>
-    <code>- <a href="lorenzokimarthur.com" target="_blank" rel="noopener">Developer</a></code><br>
+    <code>- <a href="https://www.lorenzokimarthur.com/" target="_blank" rel="noopener">Developer</a></code><br>
     <code>- Hacktoberfest 22</code><br>
     <code>- <a href="https://devs.flutter.ph/" target="_blank" rel="noopener">DEVS</a></code> <br>
     <code>- SNAMEGENERATOR</code><br>
