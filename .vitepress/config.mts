@@ -52,7 +52,7 @@ async function config() {
       postLength: await getPostLength(),
       nav: [
         {
-          text: "🏠 Home",
+          text: "🏠 Topics",
           link: "/",
         },
         {
