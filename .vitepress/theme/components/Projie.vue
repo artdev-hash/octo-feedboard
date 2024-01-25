@@ -5,7 +5,8 @@
   <code>Recent  💡  >></code><br>
   <div class="typewriter-effect">
   <div class="text" id="typewriter-text"></div>
-  <code>- Participation in HACKTOBER 23</code></div>
+  <code>- <a href="https://artdev-hash.github.io/pc-upgrade-and-repair/" target="_blank" rel="noopener">PC UPGRADE AND REPAIR</a></code></div>
+  <code>- Participation in HACKTOBER 23</code><br>
   <code>- <a href="https://artdev-hash.github.io/bicol_translate/" target="_blank" rel="noopener">BICOL TRANSLATE</a></code><br>
   <code>- <a href="https://artdev-hash.github.io/octo-feedboard/" target="_blank" rel="noopener">OCTO-FEEDBOARD</a></code><br>
   <code>- <a href="https://lorenzokimarthur.com" target="_blank" rel="noopener">LORENZOKIMARTHUR.COM</a></code><br>
