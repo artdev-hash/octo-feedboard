@@ -54,6 +54,14 @@ async function config() {
         {
           text: "🏠 Topics",
           link: "/",
+        },
+        {
+          text: "👨‍💻 Dev",
+          link: "/dev",
+        },
+        {
+          text: "📦 Etc",
+          link: "/work",
         }
       ],
       socialLinks: [
