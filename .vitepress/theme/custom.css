@@ -1,9 +1,9 @@
 @import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.6.0/style.min.css");
 :root {
-  --vp-c-brand: #e74f41;
-  --vp-c-brand-light: #e63f36;
-  --vp-c-brand-dark: #ff2d20;
-  --vp-c-hover: #13151d;
+  --vp-c-brand: #e45f5f;
+  --vp-c-brand-light: #f75454;
+  --vp-c-brand-dark: #8d1414;
+  --vp-c-hover: #212121;
   --vp-c-bg: #bfdcec;
   --vp-c-bg-alpha-with-backdrop: rgba(250, 246, 241, 0.7);
 

@@ -4,7 +4,7 @@
     <a href="https://www.buymeacoffee.com/kimdevprc" target="_blank" title="artdev-hash"
       >artdev-hash</a
     >
-    | Copyright © 2022-{{ date }} | MIT License
+    | Copyright © 2023-{{ date }} | MIT License
   </footer>
 </template>
 <script lang="ts" setup>
