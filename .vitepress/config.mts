@@ -79,7 +79,7 @@ async function config() {
             </svg>`,
           },
           link: "mailto:dev@lorenzokimarthur.com",
-        }
+        },
       ],
       aside: false,
     }
