@@ -54,14 +54,6 @@ async function config() {
         {
           text: "🏠 Topics",
           link: "/",
-        },
-        {
-          text: "👨‍💻 Dev",
-          link: "/dev",
-        },
-        {
-          text: "📦 Etc",
-          link: "/work",
         }
       ],
       socialLinks: [
@@ -87,7 +79,7 @@ async function config() {
             </svg>`,
           },
           link: "mailto:dev@lorenzokimarthur.com",
-        },
+        }
       ],
       aside: false,
     }
